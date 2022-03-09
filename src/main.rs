@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=zF34dRivLOw&t=728s 
+// https://www.youtube.com/watch?v=zF34dRivLOw&t=728s video
 // mod print;
 // mod vars;
 mod types;
