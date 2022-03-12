@@ -1,8 +1,12 @@
 // https://www.youtube.com/watch?v=zF34dRivLOw&t=728s video
 // mod print;
 // mod vars;
-mod types;
+// mod types;
+// mod strings;
+// mod tuples;
+mod arrays;
+
 
 fn main() {
-    types::run();
+    arrays::run();
 }
