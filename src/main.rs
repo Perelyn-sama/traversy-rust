@@ -4,9 +4,9 @@
 // mod types;
 // mod strings;
 // mod tuples;
-mod arrays;
+mod cli;
 
 
 fn main() {
-    arrays::run();
+    cli::run();
 }
